@@ -1,2 +1,2 @@
 # fire-water-grass
- A rock paper scissors implementation in C.
+A basic implementation of rock paper scissors but with nature elements.
